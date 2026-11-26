@@ -1,0 +1,80 @@
+{
+  "name": "OraMusic",
+  "description": "A Telegram Music Player Bot, written in Python with Kurigram and PyTgCalls.",
+  "logo": "https://i.imgur.com/wuGisS9.jpeg",
+  "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "Shrutix",
+    "MusicBot",
+    "telegram-bot",
+    "kurigram"
+  ],
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A Bot's token from Botfather",
+      "value": "",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "value": "",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "The user id of user whom you would like to add as OWNER.",
+      "value": "",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "A Kurigram-compatible pyrogram user session string from @Sessionbbbot on Telegram.",
+      "value": "",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Your Heroku account's API key",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Your heroku app name",
+      "value": "",
+      "required": false
+    },
+    "LOGGER_ID": {
+      "description": "Your Log Group ID, add your bot and promote as an admin with full rights!",
+      "value": "",
+      "required": true
+    },
+    "SHRUTI_API_URL": {
+      "description": "Your Shruti API URL",
+      "value": "https://api.shrutibots.in",
+      "required": true
+    },
+    "SHRUTI_API_KEY": {
+      "description": "Get API key from Telegram bot @Oramusicbot or dash.shrutibots.in",
+      "value": "",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ],
+  "stack": "container"
+}
