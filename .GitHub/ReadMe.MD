@@ -4,7 +4,7 @@
 
 <br/>
 
-[![𝘿𝙚𝙥𝙡𝙤𝙮 𝙩𝙤 𝙃𝙚𝙧𝙤𝙠𝙪](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ora-Repo-RP/Ora)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ora-Repo-RP/Ora)
 
 </div>
 
