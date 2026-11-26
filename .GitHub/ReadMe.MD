@@ -4,20 +4,6 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/BABY-MUSIC/SPOTIFY_MUSIC?color=1DB954&logo=github&logoColor=white&style=for-the-badge&label=STARS)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC)
-[![Forks](https://img.shields.io/github/forks/BABY-MUSIC/SPOTIFY_MUSIC?color=1DB954&logo=github&logoColor=white&style=for-the-badge&label=FORKS)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC/network/members)
-[![License](https://img.shields.io/badge/LICENSE-MIT-1DB954?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/BABY-MUSIC/SPOTIFY_MUSIC/blob/master/LICENSE)
-[![Python](https://img.shields.io/badge/PYTHON-3.10+-1DB954?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/DOCKER-READY-1DB954?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-BOT-1DB954?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BabiesIQ)
-
-<br/>
-
-> **SPOTIFY_MUSIC** is a powerful, feature-rich Telegram music bot built by **BabiesIQ Team**.  
-> Stream high-quality audio & video directly in Telegram voice chats — from YouTube, Spotify, Apple Music, SoundCloud, Resso, and more.
-
-<br/>
-
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ora-Repo-RP/Ora)
 
 </div>
